@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Phu!
 
 ### 💻 About Me:
-- 🎯 **Backend Developer** | Java | .NET | HTML/CSS 
+- 🎯 **Backend Developer** | Java | .NET 
 - 🚀 Passionate about coding and problem-solving  
 - 🌱 Currently learning **Spring Boot** 
 - 📫 Reach me at: **ngocphu2k4@gmail.com**  
