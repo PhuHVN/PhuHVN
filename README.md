@@ -15,14 +15,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Phu&show_icons=true&theme=radical" height="180px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Phu&theme=radical" height="180px">
-</p>
-
----
-
 ### 🏆 Achievements:
 - ✅ Buildt a some project JAVA release **OOP**
 - ✅ Built a Backend e-commerce site with **Spring Boot**  
