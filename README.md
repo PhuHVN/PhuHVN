@@ -3,7 +3,7 @@
 ### 💻 About Me:
 - 🎯 **Backend Developer** | Java | .NET | HTML/CSS 
 - 🚀 Passionate about coding and problem-solving  
-- 🌱 Currently learning **Spring Boot** and **React**  
+- 🌱 Currently learning **Spring Boot** 
 - 📫 Reach me at: **ngocphu2k4@gmail.com**  
 
 ---
@@ -24,13 +24,14 @@
 ---
 
 ### 🏆 Achievements:
-- ✅ Built a full-stack e-commerce site with **Spring Boot** and **React**  
+- ✅ Buildt a some project JAVA release **OOP**
+- ✅ Built a Backend e-commerce site with **Spring Boot**  
 - ✅ Integrated payment gateway **VNPay**  
 - ✅ Developed a tracking system for **child growth** and **booking system**  
 
 ---
 
 ### 📢 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/your-username)
-[![Mail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hvn-ph%C3%BA-7093162b6/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/PhuHVN/PhuHVN)
+[![Mail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:ngocphu2k4@gmail.com)
