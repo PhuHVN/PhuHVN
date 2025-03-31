@@ -17,9 +17,8 @@
 
 ### 🏆 Achievements:
 - ✅ Buildt a some project JAVA release **OOP**
-- ✅ Built a Backend e-commerce site with **Spring Boot**  
-- ✅ Integrated payment gateway **VNPay**  
-- ✅ Developed a tracking system for **child growth** and **booking system**  
+- ✅ Built a Backend e-commerce site with **Spring Boot**   
+- ✅ Developed a tracking system for **Growth Child Tracking** and **Task Manage**  
 
 ---
 
