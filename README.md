@@ -20,8 +20,8 @@
 ### 🏆 Achievements:
 - ✅ Built some project JAVA implementing **OOP principles**
 - ✅ Built a Backend e-commerce site with **Spring Boot**   
-- ✅ Developed a tracking system for **Growth Child Tracking** and **Task Management**
-- ✅ Created RESTful APIs using **ASP.NET Core Web API**
+- ✅ Developed a tracking system for **Growth Child Tracking** 
+- ✅ RESTful APIs using **ASP.NET Core Web API** for **Movie Ticket**
 - ✅ Built some **basic 2D games with Unity** (e.g., Flappy Bird clone, simple platformer)
 
 ---
