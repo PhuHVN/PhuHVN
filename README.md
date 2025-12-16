@@ -43,7 +43,7 @@
 | Project | Tech Stack | Link | Repo |
 | :--- | :--- | :--- | :--- |
 | **🏛️ Smart Museum System** | `ASP.NET Core` `SQL Server` `AI` | [📂 LINK ](https://github.com/Long9904/MuseumManagementSystem) | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=PhuHVN\&repo=MuseumManagementSystem\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515) |
-| **🛍️ E-commerce Backend** | `Spring Boot/ASP.NET` `Redis` | [📂 LINK ](https://github.com/PhuHVN/ShuppeMarket) |![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=PhuHVN\&repo=ShuppeMarket\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515) |
+| **🛍️ E-commerce Backend** | `ASP.NET Core` `SQL Server` `Redis` | [📂 LINK ](https://github.com/PhuHVN/ShuppeMarket) |![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=PhuHVN\&repo=ShuppeMarket\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515) |
 
 #### 🏛️ Smart Museum Management System (SMMS)
 > *A comprehensive multi-tenant platform featuring AI assistance and digital artifact management.*
