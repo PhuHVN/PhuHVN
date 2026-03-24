@@ -27,7 +27,7 @@ public class Developer
     public string Location { get; set; } = "Ho Chi Minh City 🇻🇳";
     public string Education { get; set; } = "FPT University - Software Engineering";
     public string Status { get; set; } = "Open to Intern/Fresher Opportunities";
-    
+
     public List<string> Interests { get; set; } = new()
     {
         "🏗️ Clean Architecture & SOLID Principles",
@@ -35,8 +35,8 @@ public class Developer
         "💾 Database Design & Query Optimization",
         "🛡️ Backend Security Best Practices"
     };
-    
-    public string GetMotivation() => 
+
+    public string GetMotivation() =>
         "Turning complex business logic into elegant, maintainable code! 💡";
 }
 ```
@@ -57,25 +57,21 @@ public class Developer
 
 <div align="center">
 
-### Core Technologies
+### Core .NET Stack
 
 <table>
 <tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><strong>Java</strong>
-</td>
 <td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
 <br><strong>C#</strong>
 </td>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-<br><strong>Spring Boot</strong>
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+<br><strong>ASP.NET Core</strong>
 </td>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" />
-<br><strong>ASP.NET Core</strong>
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="LINQ" />
+<br><strong>LINQ</strong>
 </td>
 </tr>
 </table>
@@ -89,7 +85,7 @@ public class Developer
 <br><strong>MySQL</strong>
 </td>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=sqlserver" width="48" height="48" alt="SQL Server" />
+<img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="SQL Server" />
 <br><strong>SQL Server</strong>
 </td>
 <td align="center" width="140">
@@ -103,7 +99,7 @@ public class Developer
 </tr>
 </table>
 
-### Tools & Others
+### Tools & Frameworks
 
 <table>
 <tr>
@@ -112,16 +108,16 @@ public class Developer
 <br><strong>Git</strong>
 </td>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
-</td>
-<td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br><strong>Docker</strong>
 </td>
 <td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
 <br><strong>Google Cloud</strong>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
+<br><strong>Visual Studio</strong>
 </td>
 </tr>
 </table>
@@ -133,44 +129,9 @@ public class Developer
 
 <div align="center">
 
-### 🏛️ Smart Museum Management System (SMMS)
-*AI-Powered Multi-Tenant Museum Platform*
+### 🛍️ ShuppeMarket - Multi-Vendor E-Commerce Platform
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Long9904/MuseumManagementSystem)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server)
-![AI](https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=tensorflow)
-
-</div>
-
-**🎯 Key Achievements:**
-
-```
-├── 🏗️  Multi-Tenant Architecture
-│   └── Strict data isolation per museum
-│
-├── 🤖  AI Chatbot Integration
-│   └── Context-aware artifact Q&A system
-│
-├── 📱  QR Code System
-│   └── Real-time artifact tracking & visitor engagement
-│
-└── 📊  Comprehensive Audit Logs
-    └── Complete artifact movement history
-```
-
-**💡 Technical Highlights:**
-- Implemented **Row-Level Security** for multi-tenancy
-- Built **RESTful API** with 40+ endpoints
-- Integrated **AI service** for natural language queries
-- Achieved **sub-200ms response time** on core queries
-
----
-
-<div align="center">
-
-### 🛍️ Multi-Vendor E-Commerce Backend
-*Scalable Marketplace with Flash Sales & Complex SKU Management*
+_Scalable Marketplace with Advanced Commerce Features_
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PhuHVN/ShuppeMarket)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet)
@@ -191,32 +152,70 @@ public class Developer
 ├── 🎫  Advanced Voucher System
 │   └── Stackable discounts with business rule validation
 │
-└── 🔒  Transaction Integrity
-    └── ACID-compliant order processing
+├── 🔒  Transaction Integrity
+│   └── ACID-compliant order processing
+│
+├── 👥  Multi-Vendor Support
+│   └── Seller registration & shop management
+│
+└── 🖼️  Media Management
+    └── Image upload with Cloudinary integration
 ```
 
 **💡 Technical Highlights:**
+
 - Reduced **race conditions** by 99% with Redis caching
 - Built **flexible pricing engine** supporting 8+ discount types
 - Implemented **distributed transaction** patterns
+- JWT authentication + Google OAuth 2.0
+- FluentValidation + AutoMapper for clean code
 
 ---
 
 <div align="center">
 
-### 🎬 Cinema Ticket Booking API
-*RESTful API for Theater Management*
+### 🔄 LoopCutAI - Subscription Management System with AI Integration
+
+_Intelligent Service & Membership Management Platform_
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![AI](https://img.shields.io/badge/Gemini_AI-FF6F00?style=flat-square&logo=google)
+![PayOS](https://img.shields.io/badge/PayOS-FF0000?style=flat-square)
 
 </div>
 
-**Features:**
-- 🎟️ Real-time seat selection with collision detection
-- 📅 Dynamic showtime scheduling
-- 💳 Secure booking & payment processing
-- 📊 Theater analytics dashboard
+**🎯 Key Achievements:**
+
+```
+├── 🔐  Secure Authentication
+│   └── JWT tokens + Google OAuth 2.0
+│
+├── 📦  Membership Management
+│   └── Service plans, subscriptions, renewals
+│
+├── 💳  Payment Processing
+│   └── PayOS integration for seamless transactions
+│
+├── 🤖  AI Chatbot Assistant
+│   └── Google Gemini API for 24/7 support
+│
+├── 📧  Automated Notifications
+│   └── Email alerts for subscription expiry
+│
+└── 🏗️  Clean Architecture
+    └── Separation of concerns with layered design
+```
+
+**💡 Technical Highlights:**
+
+- **Clean Architecture** with 4-layer separation (API, Application, Domain, Infrastructure)
+- **MediatR pattern** for CQRS implementation
+- **Entity Framework Core** with PostgreSQL
+- **FluentValidation** for robust input validation
+- **Google Gemini API** integration for intelligent chatbot
+- **PayOS payment gateway** for subscription billing
+- **Automated background services** for notifications
 
 ---
 
@@ -251,13 +250,13 @@ public class Developer
 
 <div align="center">
 
-| Area | Progress |
-|:-----|:--------:|
-| 🔵 **ASP.NET Core API** | ████████░░ 75% |
+| Area                      |    Progress    |
+| :------------------------ | :------------: |
+| 🔵 **ASP.NET Core API**   | ████████░░ 75% |
 | 🟢 **Clean Architecture** | ███████░░░ 65% |
-| 🔴 **Database Design** | ███████░░░ 70% |
-| 🟣 **Design Patterns** | █████░░░░░ 50% |
-| 🟡 **Docker Basics** | ████░░░░░░ 35% |
+| 🔴 **Database Design**    | ███████░░░ 70% |
+| 🟣 **Design Patterns**    | █████░░░░░ 50% |
+| 🟡 **Docker Basics**      | ████░░░░░░ 35% |
 
 </div>
 
@@ -306,7 +305,7 @@ public class Developer
 
 ### ⚡ Fun Fact
 
-*"My code works, I just don't know why!" 😄*
+_"My code works, I just don't know why!" 😄_
 
 ---
 
