@@ -223,13 +223,6 @@ _Intelligent Service & Membership Management Platform_
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhuHVN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuHVN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhuHVN&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
 
 </div>
@@ -256,7 +249,6 @@ _Intelligent Service & Membership Management Platform_
 | 🟢 **Clean Architecture** | ███████░░░ 65% |
 | 🔴 **Database Design**    | ███████░░░ 70% |
 | 🟣 **Design Patterns**    | █████░░░░░ 50% |
-| 🟡 **Docker Basics**      | ████░░░░░░ 35% |
 
 </div>
 
