@@ -69,10 +69,6 @@ public class Developer
 <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
 <br><strong>ASP.NET Core</strong>
 </td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="LINQ" />
-<br><strong>LINQ</strong>
-</td>
 </tr>
 </table>
 
